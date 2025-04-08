@@ -1,0 +1,20 @@
+.topbar {
+    height: 60px;
+    background: #007bff;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 20px;
+}
+
+.logo {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.user-actions {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
